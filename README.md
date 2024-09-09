@@ -2,7 +2,7 @@
 
 <header class="profile-contact-info">
 	<!-- Temporary contacts -->
-	<p align="center">You can contact me via <a href="https://linkedin.com/in/leoapagano">my LinkedIn</a>. I almost always respond within 24 hours. I'll have more interesting stuff here soon.</p>
+	<p align="center">I'll have more interesting stuff here soon.</p>
 	<!-- Contacts - publish later 
 	<p align="center">You can contact me on <a href="https://leoapagano.com/contact">my website</a> or via <a href="https://linkedin.com/in/leoapagano">my LinkedIn</a>. I almost always respond within 24 hours.</p>
 	<!-- Profile Stats - publish later 
